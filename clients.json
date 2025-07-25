@@ -1,0 +1,10 @@
+{
+    "clients": [
+        {
+            "username": "Naveen",
+            "email": "naveen@gmail.com",
+            "password": "$2b$12$Rty.3ZsVFli.X4uclNk5O.qCHKCeNv/r5ovSDtZQDpT.IitDBS72S",
+            "port": 8001
+        }
+    ]
+}
