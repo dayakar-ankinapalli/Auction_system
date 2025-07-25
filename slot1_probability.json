@@ -2,7 +2,7 @@
     "slot1_probability": [
         {
             "port": 8001,
-            "probability": "60%"
+            "probability": "75%"
         }
     ]
 }
