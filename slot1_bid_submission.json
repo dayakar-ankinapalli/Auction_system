@@ -1,7 +1,7 @@
 {
     "slot1_bid_submission": [
         {
-            "slots": 50,
+            "slots": 80,
             "bid_price": 5000,
             "port": 8001
         }
